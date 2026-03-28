@@ -1,0 +1,132 @@
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Intel One Mono', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+
+  .canvas {
+    position: relative;
+    width: 600px;
+    height: 267px;
+    background: #fff;
+  }
+
+  .word {
+    position: absolute;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #111;
+    font-weight: 400;
+    white-space: nowrap;
+    line-height: 1;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+  }
+
+  /* Row 1 */
+  .apple {
+    font-size: 30px;
+    font-weight: 300;
+    top: 48px;
+    left: 38px;
+  }
+
+  .watermelon {
+    font-size: 17px;
+    font-weight: 400;
+    top: 61px;
+    left: 151px;
+  }
+
+  .pear {
+    font-size: 25px;
+    font-weight: 400;
+    top: 34px;
+    left: 310px;
+    transform: rotate(90deg);
+    transform-origin: top left;
+  }
+
+  .apples {
+    font-size: 30px;
+    font-weight: 300;
+    top: 48px;
+    left: 365px;
+  }
+
+  .mango {
+    font-size: 30px;
+    font-weight: 400;
+    top: 38px;
+    left: 566px;
+    transform: rotate(90deg);
+    transform-origin: top left;
+  }
+
+  /* Row 2 */
+  .cherry {
+    font-size: 25px;
+    font-weight: 400;
+    top: 95px;
+    left: 39px;
+    transform: rotate(-90deg);
+    transform-origin: top left;
+  }
+
+  .banana {
+    font-size: 52px;
+    font-weight: 700;
+    top: 88px;
+    left: 70px;
+  }
+
+.cucumber {
+  color: #80f25d !important;
+  transition: color 0.3s ease;
+  font-size: 18px;
+  font-weight: 400;
+  top: 130px;
+  left: 362px;
+}
+
+.cucumber:hover {
+  color: #5a9e3f !important;
+}
+
+.cucumber:hover {
+  color: #5a9e3f;
+}
+  /* Row 3 */
+  .strawberry {
+    font-size: 34px;
+    font-weight: 400;
+    top: 150px;
+    left: 138px;
+  }
+
+  /* Row 4 */
+  .durian {
+    font-size: 17px;
+    font-weight: 400;
+    top: 193px;
+    left: 70px;
+  }
+
+  .nectarine {
+    font-size: 32px;
+    font-weight: 400;
+    top: 188px;
+    left: 138px;
+  }
+
+  .yuzu {
+    font-size: 52px;
+    font-weight: 700;
+    top: 180px;
+    left: 347px;
+  }
