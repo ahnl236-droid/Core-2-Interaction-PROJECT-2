@@ -47,7 +47,7 @@
     font-size: 25px;
     font-weight: 400;
     top: 34px;
-    left: 310px;
+    left: 308px;
     transform: rotate(90deg);
     transform-origin: top left;
   }
@@ -55,8 +55,8 @@
   .apples {
     font-size: 30px;
     font-weight: 300;
-    top: 48px;
-    left: 365px;
+    top: 70px;
+    left: 315px;
   }
 
   .mango {
@@ -72,10 +72,10 @@
   .cherry {
     font-size: 25px;
     font-weight: 400;
-    top: 95px;
-    left: 39px;
+    top: 165px;
+    left: 65px;
     transform: rotate(-90deg);
-    transform-origin: top left;
+    transform-origin: bottom left;
   }
 
   .banana {
@@ -95,9 +95,12 @@
 }
 
 .cucumber:hover {
-  color: #5a9e3f !important;
+  color: #000000;
 }
 
+.cucumber:hover {
+  color: #5a9e3f;
+}
   /* Row 3 */
   .strawberry {
     font-size: 34px;
