@@ -29,18 +29,19 @@
   }
 
   /* Row 1 */
-  .apple {
+  .kiwi {
     font-size: 30px;
     font-weight: 300;
-    top: 48px;
-    left: 38px;
+    top: 55px;
+    left: 105px;
+    rotate: 18deg;
   }
 
   .watermelon {
     font-size: 17px;
     font-weight: 400;
-    top: 61px;
-    left: 151px;
+    top: 75px;
+    left: 165px;
   }
 
   .pear {
@@ -98,9 +99,15 @@
   color: #000000;
 }
 
-.cucumber:hover {
-  color: #5a9e3f;
+.cucumber {
+  color: #80f25d !important;
+  transition: color 0.3s ease;
+  font-size: 18px;
+  font-weight: 400;
+  top: 130px;
+  left: 362px;
 }
+
   /* Row 3 */
   .strawberry {
     font-size: 34px;
