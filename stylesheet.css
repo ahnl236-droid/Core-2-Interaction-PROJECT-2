@@ -63,9 +63,9 @@
   .mango {
     font-size: 30px;
     font-weight: 400;
-    top: 38px;
-    left: 505px;
-    transform: rotate(90deg);
+    top: 125px;
+    left: 395px;
+    transform: rotate(270deg);
     transform-origin: top left;
   }
 
@@ -99,7 +99,7 @@
   .strawberry {
     font-size: 34px;
     font-weight: 400;
-    top: 150px;
+    top: 135px;
     left: 138px;
   }
 
@@ -114,8 +114,8 @@
   .nectarine {
     font-size: 32px;
     font-weight: 100;
-    top: 185px;
-    left: 138px;
+    top: 168px;
+    left: 188px;
   }
 
   .yuzu {
