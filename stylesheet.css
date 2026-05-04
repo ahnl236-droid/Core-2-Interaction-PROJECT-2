@@ -95,19 +95,6 @@
   left: 362px;
 }
 
-.cucumber:hover {
-  color: #000000;
-}
-
-.cucumber {
-  color: #80f25d !important;
-  transition: color 0.3s ease;
-  font-size: 18px;
-  font-weight: 400;
-  top: 130px;
-  left: 362px;
-}
-
   /* Row 3 */
   .strawberry {
     font-size: 34px;
