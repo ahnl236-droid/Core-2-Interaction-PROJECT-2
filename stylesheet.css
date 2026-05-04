@@ -57,14 +57,14 @@
     font-size: 30px;
     font-weight: 300;
     top: 70px;
-    left: 315px;
+    left: 310px;
   }
 
   .mango {
     font-size: 30px;
     font-weight: 400;
     top: 38px;
-    left: 566px;
+    left: 505px;
     transform: rotate(90deg);
     transform-origin: top left;
   }
@@ -86,13 +86,13 @@
     left: 70px;
   }
 
-.cucumber {
-  color: #80f25d !important;
-  transition: color 0.3s ease;
-  font-size: 18px;
+  .cucumber {
+    color: #80f25d !important;
+    transition: color 0.3s ease;
+    font-size: 18px;
   font-weight: 400;
   top: 130px;
-  left: 362px;
+  left: 370px;
 }
 
   /* Row 3 */
@@ -107,14 +107,14 @@
   .durian {
     font-size: 17px;
     font-weight: 400;
-    top: 193px;
+    top: 155px;
     left: 70px;
   }
 
   .nectarine {
     font-size: 32px;
-    font-weight: 400;
-    top: 188px;
+    font-weight: 100;
+    top: 185px;
     left: 138px;
   }
 
